@@ -1,7 +1,5 @@
 # API-CassinoPython-BackEnd
 
-# API-CassinoPython
-
 🎰 Cassino Slot Game
 
 Um jogo de cassino estilo slot machine desenvolvido em React, com lógica de backend disponível via FastAPI em outro repositório. O objetivo é proporcionar uma experiência divertida de girar os símbolos e ganhar combinações vencedoras.
